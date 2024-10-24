@@ -15,7 +15,6 @@ export default async function RevenueChart({
   revenue: Revenue[];
 }) {
 
-  console.log("Reevenue:",revenue);
   const chartHeight = 350;
   // NOTE: Uncomment this code in Chapter 7
 
